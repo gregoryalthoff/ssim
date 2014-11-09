@@ -1,16 +1,18 @@
 ## Distribution
 
-| 34.91981% | [amoslanka](https://github.com/amoslanka) | $34,580.60 |
-| 34.91981% | [kirkstrobeck](https://github.com/kirkstrobeck) | $34,580.60 |
-| 13.02654% | [ringlejc](https://github.com/ringlejc) | $12,900.00 |
-| 8.92545% | [honeyd](https://github.com/honeyd) | $8,838.75 |
-| 4.32239% | [NathanWalker](https://github.com/NathanWalker) | $4,280.40 |
-| 1.42762% | [kaystrobeck](https://github.com/KatStrobe) | $1,413.75 |
-| 1.27236% | [thedavidbarwick](https://github.com/thedavidbarwick) | $1,260.00 |
-| 0.93458% | [rpilic](https://github.com/rpilic) | $925.50 |
-| 0.15046% | [KatStrobe](https://github.com/KatStrobe) | $149.00 |
-| 0.05049% | [hmarcks](https://github.com/hmarcks) | $50.00 |
-| 0.05049% | [marshallbu](https://github.com/marshallbu) | $50.00 |
+| Percent | Amount | User |
+| ------- | ------ | ---- |
+| 34.91981% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
+| 34.91981% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
+| 13.02654% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
+| 8.92545% | $8,838.75 | [honeyd](https://github.com/honeyd) |
+| 4.32239% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
+| 1.42762% | $1,413.75 | [kaystrobeck](https://github.com/KatStrobe) |
+| 1.27236% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
+| 0.93458% | $925.50 | [rpilic](https://github.com/rpilic) |
+| 0.15046% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
+| 0.05049% | $50.00 | [hmarcks](https://github.com/hmarcks) |
+| 0.05049% | $50.00 | [marshallbu](https://github.com/marshallbu) |
 
 ## Bounty
 
