@@ -47,12 +47,10 @@
 | $1521.45 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000003 on 06/06/14 |
 | $1794.15 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000002 on 05/30/14 |
 | $12119.75 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000001 on 05/25/14 |
-
 | $300.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000004 on 08/15/14 |
 | $180.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000003 on 08/08/14 |
 | $300.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000002 on 08/02/14 |
 | $480.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000001 on 07/30/14 |
-
 | $20.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000018 on 11/07/14 |
 | $20.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000017 on 10/10/14 |
 | $20.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000016 on 09/05/14 |
@@ -71,22 +69,18 @@
 | $875.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000003 on 05/30/14 |
 | $375.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000002 on 05/23/14 |
 | $1875.00 | [honeyd](https://github.com/honeyd) | Time tracking invoice #0000001 on 05/20/14 |
-
 | $7,500.00 | [ringlejc](https://github.com/ringlejc) | Tip for Tip trailer on 06/22/14 |
 | $525.00 | [ringlejc](https://github.com/ringlejc) | Time tracking invoice #0000005 on 06/14/14 |
 | $675.00 | [ringlejc](https://github.com/ringlejc) | Time tracking invoice #0000003 on 06/02/14 |
 | $525.00 | [ringlejc](https://github.com/ringlejc) | Time tracking invoice #0000002 on 05/24/14 |
 | $525.00 | [ringlejc](https://github.com/ringlejc) | Time tracking invoice #0000001 on 05/17/14 |
 | $3150.00 | [ringlejc](https://github.com/ringlejc) | Time tracking invoice #0000001 on 05/09/14 |
-
 | $46.60 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000003 on 08/01/14 |
 | $42.00 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000002 on 07/25/14 |
 | $60.40 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000001 on 07/18/14 |
-
 | $116.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000003 on 10/31/14 |
 | $536.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000002 on 10/24/14 |
 | $761.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000001 on 10/17/14 |
-
 | $564.20 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000021 on 08/07/14 |
 | $139.30 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000020 on 08/02/14 |
 | $560.00 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000018 on 07/25/14 |
@@ -97,7 +91,6 @@
 | $511.00 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000005 on 05/31/14 |
 | $231.00 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000002 on 05/23/14 |
 | $700.00 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000001 on 05/18/14 |
-
 | $87.50 | [rpilic](https://github.com/rpilic) | Time tracking invoice #0000007 on 08/08/14 |
 | $212.50 | [rpilic](https://github.com/rpilic) | Time tracking invoice #0000006 on 07/11/14 |
 | $87.50 | [rpilic](https://github.com/rpilic) | Time tracking invoice #0000005 on 07/04/14 |
