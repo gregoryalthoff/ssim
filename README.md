@@ -1,24 +1,24 @@
 ## Distribution
 
-| 34.91981% | [amoslanka](https://github.com/amoslanka) 34,580.60 |
-| 34.91981% | [kirkstrobeck](https://github.com/kirkstrobeck) 34,580.60 |
-| 13.02654% | [ringlejc](https://github.com/ringlejc) 12,900.00 |
-| 8.92545% | [honeyd](https://github.com/honeyd) 8,838.75 |
-| 4.32239% | [NathanWalker](https://github.com/NathanWalker) 4,280.40 |
-| 1.42762% | [kaystrobeck](https://github.com/KatStrobe) 1,413.75 |
-| 1.27236% | [thedavidbarwick](https://github.com/thedavidbarwick) 1,260.00 |
-| 0.93458% | [rpilic](https://github.com/rpilic) 925.50 |
-| 0.15046% | [KatStrobe](https://github.com/KatStrobe) 149.00 |
-| 0.05049% | [hmarcks](https://github.com/hmarcks) $50.00 |
-| 0.05049% | [marshallbu](https://github.com/marshallbu) $50 |
+| 34.91981% | [amoslanka](https://github.com/amoslanka) | $34,580.60 |
+| 34.91981% | [kirkstrobeck](https://github.com/kirkstrobeck) | $34,580.60 |
+| 13.02654% | [ringlejc](https://github.com/ringlejc) | $12,900.00 |
+| 8.92545% | [honeyd](https://github.com/honeyd) | $8,838.75 |
+| 4.32239% | [NathanWalker](https://github.com/NathanWalker) | $4,280.40 |
+| 1.42762% | [kaystrobeck](https://github.com/KatStrobe) | $1,413.75 |
+| 1.27236% | [thedavidbarwick](https://github.com/thedavidbarwick) | $1,260.00 |
+| 0.93458% | [rpilic](https://github.com/rpilic) | $925.50 |
+| 0.15046% | [KatStrobe](https://github.com/KatStrobe) | $149.00 |
+| 0.05049% | [hmarcks](https://github.com/hmarcks) | $50.00 |
+| 0.05049% | [marshallbu](https://github.com/marshallbu) | $50.00 |
 
 ## Bounty
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
-| $50 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
-| $150 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
-| $100 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 | 
+| $50.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
+| $150.00 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
+| $100.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 | 
 
 ## Hourly
 
