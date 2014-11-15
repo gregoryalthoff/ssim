@@ -2,17 +2,16 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-| 34.91981% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
-| 34.91981% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
-| 13.02654% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
-| 8.92545% | $8,838.75 | [honeyd](https://github.com/honeyd) |
-| 4.32239% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
-| 1.42762% | $1,413.75 | [kaystrobeck](https://github.com/KatStrobe) |
-| 1.27236% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
-| 0.93458% | $925.50 | [rpilic](https://github.com/rpilic) |
-| 0.15046% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
-| 0.05049% | $50.00 | [hmarcks](https://github.com/hmarcks) |
-| 0.05049% | $50.00 | [marshallbu](https://github.com/marshallbu) |
+| 35.42555% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
+| 35.42555% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
+| 13.21520% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
+| 9.05472% | $8,838.75 | [honeyd](https://github.com/honeyd) |
+| 4.38499% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
+| 1.29079% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
+| 0.94811% | $925.50 | [rpilic](https://github.com/rpilic) |
+| 0.15264% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
+| 0.05122% | $50.00 | [hmarcks](https://github.com/hmarcks) |
+| 0.05122% | $50.00 | [marshallbu](https://github.com/marshallbu) |
 
 ## Bounty
 
@@ -20,7 +19,7 @@
 | ------ | ---- | ----- |
 | $50.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
 | $150.00 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
-| $100.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 | 
+| $100.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 |
 
 ## Hourly
 
@@ -78,9 +77,6 @@
 | $46.60 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000003 on 08/01/14 |
 | $42.00 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000002 on 07/25/14 |
 | $60.40 | [KatStrobe](https://github.com/KatStrobe) | Time tracking invoice #0000001 on 07/18/14 |
-| $116.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000003 on 10/31/14 |
-| $536.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000002 on 10/24/14 |
-| $761.25 | [kaystrobeck](https://github.com/KatStrobe) | Time tracking invoice #0000001 on 10/17/14 |
 | $564.20 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000021 on 08/07/14 |
 | $139.30 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000020 on 08/02/14 |
 | $560.00 | [NathanWalker](https://github.com/NathanWalker) | Time tracking invoice #0000018 on 07/25/14 |
