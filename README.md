@@ -2,21 +2,22 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-| 35.42555% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
-| 35.42555% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
-| 13.21520% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
-| 9.05472% | $8,838.75 | [honeyd](https://github.com/honeyd) |
-| 4.38499% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
-| 1.29079% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
-| 0.94811% | $925.50 | [rpilic](https://github.com/rpilic) |
-| 0.15264% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
-| 0.05122% | $50.00 | [hmarcks](https://github.com/hmarcks) |
-| 0.05122% | $50.00 | [marshallbu](https://github.com/marshallbu) |
+| 35.38930% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
+| 35.38930% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
+| 13.20168% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
+| 9.04545% | $8,838.75 | [honeyd](https://github.com/honeyd) |
+| 4.38050% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
+| 1.28947% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
+| 0.94714% | $925.50 | [rpilic](https://github.com/rpilic) |
+| 0.15351% | $150.00 | [marshallbu](https://github.com/marshallbu) |
+| 0.15248% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
+| 0.05117% | $50.00 | [hmarcks](https://github.com/hmarcks) |
 
 ## Bounty
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $100.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/51 |
 | $50.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
 | $150.00 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
 | $100.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 |
