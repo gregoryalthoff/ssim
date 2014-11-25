@@ -2,16 +2,28 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-| 35.38930% | $34,580.60 | [kirkstrobeck](https://github.com/kirkstrobeck) |
-| 35.38930% | $34,580.60 | [amoslanka](https://github.com/amoslanka) |
-| 13.20168% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
-| 9.04545% | $8,838.75 | [honeyd](https://github.com/honeyd) |
-| 4.38050% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
-| 1.28947% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
-| 0.94714% | $925.50 | [rpilic](https://github.com/rpilic) |
-| 0.15351% | $150.00 | [marshallbu](https://github.com/marshallbu) |
-| 0.15248% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
-| 0.05117% | $50.00 | [hmarcks](https://github.com/hmarcks) |
+| 23.73346% | $12,900.00 | [kirkstrobeck](https://github.com/kirkstrobeck) |
+| 23.73346% | $12,900.00 | [amoslanka](https://github.com/amoslanka) |
+| 23.73346% | $12,900.00 | [ringlejc](https://github.com/ringlejc) |
+| 16.26156% | $8,838.75 | [honeyd](https://github.com/honeyd) |
+| 7.87509% | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
+| 2.31815% | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
+| 1.70274% | $925.50 | [rpilic](https://github.com/rpilic) |
+| 0.27597% | $150.00 | [marshallbu](https://github.com/marshallbu) |
+| 0.27413% | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
+| 0.09199% | $50.00 | [hmarcks](https://github.com/hmarcks) |
+
+
+## Founders
+
+- 75% [kirkstrobeck](https://github.com/kirkstrobeck)
+- 25% [amoslanka](https://github.com/amoslanka)
+
+
+## Investment
+
+*Needs to be added*
+
 
 ## Bounty
 
@@ -22,31 +34,11 @@
 | $150.00 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
 | $100.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/19 |
 
+
 ## Hourly
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
-| $1205.55 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000021 on 10/31/14 |
-| $888.30 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000020 on 10/24/14 |
-| $519.75 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000019 on 10/10/14 |
-| $168.75 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000018 on 09/19/14 |
-| $1264.95 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000017 on 09/12/14 |
-| $206.55 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000016 on 09/05/14 |
-| $530.55 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000015 on 08/29/14 |
-| $1116.45 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000014 on 08/22/14 |
-| $908.55 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000013 on 08/15/14 |
-| $1971.00 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000012 on 08/08/14 |
-| $3805.65 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000011 on 08/01/14 |
-| $210.60 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000010 on 07/25/14 |
-| $487.35 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000009 on 07/18/14 |
-| $2095.20 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000008 on 07/11/14 |
-| $484.65 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000007 on 07/04/14 |
-| $1875.15 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000006 on 06/27/14 |
-| $137.25 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000005 on 06/20/14 |
-| $1269.00 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000004 on 06/13/14 |
-| $1521.45 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000003 on 06/06/14 |
-| $1794.15 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000002 on 05/30/14 |
-| $12119.75 | [amoslanka](https://github.com/amoslanka) | Time tracking invoice #0000001 on 05/25/14 |
 | $300.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000004 on 08/15/14 |
 | $180.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000003 on 08/08/14 |
 | $300.00 | [thedavidbarwick](https://github.com/thedavidbarwick) | Time tracking invoice #0000002 on 08/02/14 |
