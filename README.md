@@ -1,5 +1,7 @@
 ## Total — 100% of the profits of SSIM
 
+| Percent | Amount | User |
+| ------- | ------ | ---- |
 |	37.98221%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
 |	18.09617%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
 |	18.09617%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
@@ -30,6 +32,8 @@
 
 ## Investor section — 20% of the profits of SSIM
 
+| Percent | Amount | User |
+| ------- | ------ | ---- |
 |	22.60435%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
 |	15.48793%	|	$40.00	|	[honeyd](https://github.com/honeyd)	| 
 
@@ -42,6 +46,8 @@
 
 ## Investment
 
+| Percent | Amount | User | Note |
+| ------- | ------ | ---- | ---- |
 |	19.88605%	|	$6,980.39	|	[kirkstrobeck](https://github.com/kirkstrobeck)	| Ongoing expenses, can provide details upon request - updated 08/14/14 |
 |	0.11395%	|	$40.00	|	[honeyd](https://github.com/honeyd)	| [August and September Basecamp expenses](http://cl.ly/YhyB) |
 
