@@ -2,16 +2,16 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-| 23.70511% | $12,900.00  | [kirkstrobeck](https://github.com/kirkstrobeck) |
-| 23.70511% | $12,900.00  | [amoslanka](https://github.com/amoslanka) |
-| 23.70511% | $12,900.00  | [ringlejc](https://github.com/ringlejc) |
-| 16.24213% | $8,838.75 | [honeyd](https://github.com/honeyd) |
-| 7.86569%  | $4,280.40 | [NathanWalker](https://github.com/NathanWalker) |
-| 2.31538%  | $1,260.00 | [thedavidbarwick](https://github.com/thedavidbarwick) |
-| 1.70070%  | $925.50 | [rpilic](https://github.com/rpilic) |
-| 0.27564%  | $150.00 | [marshallbu](https://github.com/marshallbu) |
-| 0.27380%  | $149.00 | [KatStrobe](https://github.com/KatStrobe) |
-| 0.21132%  | $115.00 | [hmarcks](https://github.com/hmarcks) |
+|	23.27736%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
+|	23.27736%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
+|	23.27736%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	15.94905%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
+|	9.52820%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	2.27360%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.67002%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.27067%	|	$150.00	|	[marshallbu](https://github.com/marshallbu)	|
+|	0.26886%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.20751%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 
 ## Founders
@@ -29,6 +29,7 @@
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $1000.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/38 |
 | $100.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/51 |
 | $50.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
 | $150.00 | [hmarcks](https://github.com/hmarcks) | https://github.com/tipfortip/issues/issues/33 |
