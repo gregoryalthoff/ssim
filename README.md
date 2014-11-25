@@ -44,7 +44,7 @@
 - 25% [amoslanka](https://github.com/amoslanka)
 
 
-## Investment
+## Investments
 
 | Percent | Amount | User | Note |
 | ------- | ------ | ---- | ---- |
