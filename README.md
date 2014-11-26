@@ -1,3 +1,5 @@
+Please reference [SSIM](https://github.com/strobecksim/strobecksim)
+
 ## Total — 100% of the profits of SSIM
 
 | Percent | Amount | User |
@@ -18,8 +20,8 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	22.60435%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
-|	22.60435%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
+|	22.60435% |	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
+|	22.60435%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
 |	22.60435%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
 |	15.48793%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
 |	9.25272%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
@@ -29,6 +31,7 @@
 |	0.26109%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
 |	0.20151%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
+*(FP) Denotes founder protection clause. Number is currently affected by founder protection.*
 
 ## Investor section — 20% of the profits of SSIM
 
