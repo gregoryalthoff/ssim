@@ -1,4 +1,6 @@
-Please reference [SSIM](https://github.com/strobecksim/strobecksim)
+**Reference [SSIM](https://github.com/strobecksim/strobecksim)**
+
+<hr>
 
 ## Total — 100% of the profits of SSIM
 
