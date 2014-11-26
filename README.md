@@ -40,8 +40,10 @@
 
 ## Founders
 
-- 75% [kirkstrobeck](https://github.com/kirkstrobeck)
-- 25% [amoslanka](https://github.com/amoslanka)
+| Percent | User |
+| ------- | ---- |
+| 75% | [kirkstrobeck](https://github.com/kirkstrobeck) |
+| 25% | [amoslanka](https://github.com/amoslanka) |
 
 
 ## Investments
