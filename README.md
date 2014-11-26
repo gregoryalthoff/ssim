@@ -43,7 +43,7 @@
 |	0.11395%	|	$40.00	|	[honeyd](https://github.com/honeyd)	|
 
 
-## Founders
+## Founder section — 20% of the contributor section
 
 | Percent | User |
 | ------- | ---- |
