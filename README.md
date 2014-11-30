@@ -65,6 +65,7 @@
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $1,200.00	|	[gmhawash](https://github.com/gmhawash) | https://github.com/tipfortip/issues/issues/28 |
 | $1000.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/38 |
 | $100.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/51 |
 | $50.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/49 |
