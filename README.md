@@ -6,34 +6,36 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	36.74993%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
-|	16.86389%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
-|	16.86389%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
-|	11.66866%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|
-|	6.90295%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
-|	6.17978%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
-|	1.64717%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
-|	1.56873%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
-|	1.20989%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
-|	0.19478%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
-|	0.15034%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
+|	36.69500%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
+|	16.80895%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
+|	16.80895%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	11.63102%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|
+|	6.88046%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	6.15965%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
+|	1.64180%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.56362%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
+|	1.20594%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.26060%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
+|	0.19415%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.14985%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 
 ## Contributor section — 80% of profits of SSIM
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	16.86389%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
-|	16.86389%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
-|	16.86389%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
-|	11.55470%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
-|	6.90295%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
-|	6.17978%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
-|	1.64717%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
-|	1.56873%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
-|	1.20989%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
-|	0.19478%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
-|	0.15034%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
+|	16.80895%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
+|	16.80895%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
+|	16.80895%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	11.51706%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
+|	6.88046%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	6.15965%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
+|	1.64180%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.56362%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
+|	1.20594%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.26060%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
+|	0.19415%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.14985%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 *(FP) Denotes founder protection clause. Number is currently affected by founder protection.*
 
@@ -65,6 +67,7 @@
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff) | https://github.com/tipfortip/issues/issues/45 |
 | $1,200.00	|	[gmhawash](https://github.com/gmhawash) | https://github.com/tipfortip/issues/issues/28 |
 | $1000.00 | [nathanwalker](https://github.com/nathanwalker) | https://github.com/tipfortip/issues/issues/38 |
 | $100.00 | [marshallbu](https://github.com/marshallbu) | https://github.com/tipfortip/issues/issues/51 |
