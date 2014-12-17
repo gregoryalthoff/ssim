@@ -6,36 +6,36 @@
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	36.69500%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
-|	16.80895%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
-|	16.80895%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
-|	11.63102%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|
-|	6.88046%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
-|	6.15965%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
-|	1.64180%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
-|	1.56362%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
-|	1.20594%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
-|	0.26060%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
-|	0.19415%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
-|	0.14985%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
+|	36.41463%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|
+|	16.52859%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|
+|	16.52859%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	11.43892%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|
+|	6.76570%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	7.39126%	|	$5,768.63	|	[marshallbu](https://github.com/marshallbu)	|
+|	1.61442%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.53754%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
+|	1.18583%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.25626%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
+|	0.19091%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.14735%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 
 ## Contributor section — 80% of profits of SSIM
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	16.80895%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
-|	16.80895%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
-|	16.80895%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
-|	11.51706%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
-|	6.88046%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
-|	6.15965%	|	$4,727.21	|	[marshallbu](https://github.com/marshallbu)	|
-|	1.64180%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
-|	1.56362%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
-|	1.20594%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
-|	0.26060%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
-|	0.19415%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
-|	0.14985%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
+|	16.52859%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
+|	16.52859%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
+|	16.52859%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	11.32496%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
+|	6.76570%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	7.39126%	|	$5,768.63	|	[marshallbu](https://github.com/marshallbu)	|
+|	1.61442%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.53754%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
+|	1.18583%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.25626%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
+|	0.19091%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.14735%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 *(FP) Denotes founder protection clause. Number is currently affected by founder protection.*
 
@@ -81,6 +81,7 @@
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $1,041.42 | [marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000004 on 12/11/14 |
 | $1,032.18 |	[marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000003 on 12/04/14 |
 | $1,895.03 |	[marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000002 on 11/27/14 |
 | $1,650.00 |	[marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000001 on 11/20/14 |	
