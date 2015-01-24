@@ -7,10 +7,10 @@
 | Percent | Amount | User | Bitcoin |
 | ------- | ------ | ---- | ------- |
 |	36.05214%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	| 15y9BSqBkCnYxdEYXtwrr2D5FMi2JPH5yw |
-|	16.16610%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	| 1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY |
+|	16.16610%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|  |
 |	16.16610%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	| 1L7cju27MaTXnDpjHBwNfy9izuHvNiibyW |
 |	11.19055%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	| 1GFaYnem8deDn5Ed6gArp8SoS2X5cZS49W |
-|	8.98365%	|	$7,168.65	|	[marshallbu](https://github.com/marshallbu)	| |
+|	8.98365%	|	$7,168.65	|	[marshallbu](https://github.com/marshallbu)	| 1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY |
 |	6.61732%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	| |
 |	1.57901%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	| |
 |	1.50382%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	| |
