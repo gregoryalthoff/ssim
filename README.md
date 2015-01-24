@@ -4,8 +4,8 @@
 
 ## Total — 100% of the profits of SSIM
 
-| Percent | Amount | User |
-| ------- | ------ | ---- |
+| Percent | Amount | User | Bitcoin |
+| ------- | ------ | ---- | ------- |
 |	36.05214%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	| 15y9BSqBkCnYxdEYXtwrr2D5FMi2JPH5yw |
 |	16.16610%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	| 1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY |
 |	16.16610%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	| 1L7cju27MaTXnDpjHBwNfy9izuHvNiibyW |
