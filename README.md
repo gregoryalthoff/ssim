@@ -11,7 +11,7 @@
 |	16.16610%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	| 1L7cju27MaTXnDpjHBwNfy9izuHvNiibyW |
 |	11.19055%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	| 1GFaYnem8deDn5Ed6gArp8SoS2X5cZS49W |
 |	8.98365%	|	$7,168.65	|	[marshallbu](https://github.com/marshallbu)	| 1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY |
-|	6.61732%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	| |
+|	6.61732%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	| 12bFJXeVp1DqctTznqtqxk6ajKcFFJVmK9 |
 |	1.57901%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	| |
 |	1.50382%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	| 15jvEH2mEC2EeoeNGjabUW3Er4kTx54xa8 |
 |	1.15982%	|	$925.50	|	[rpilic](https://github.com/rpilic)	| |
