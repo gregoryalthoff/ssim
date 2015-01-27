@@ -17,7 +17,7 @@
 |	1.15982%	|	$925.50	|	[rpilic](https://github.com/rpilic)	| |
 |	0.25064%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	| |
 |	0.18672%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	| 19TCiuAGLmW1GZWgrqRs4qQD43kvNtUGnd |
-|	0.14412%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	| |
+|	0.14412%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	| 15rcx5QJngcRjE6SpEXfDZT2TArheQaG5V |
 
 
 ## Contributor section — 80% of profits of SSIM
