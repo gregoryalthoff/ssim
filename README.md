@@ -6,36 +6,36 @@
 
 | Percent | Amount | User | Bitcoin |
 | ------- | ------ | ---- | ------- |
-|	35.77813%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|	15y9BSqBkCnYxdEYXtwrr2D5FMi2JPH5yw	|
-|	15.89208%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|	13dgDZU8a93daWKcTeQpnJTZm1oKtDMkQF	|
-|	15.89208%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|	1L7cju27MaTXnDpjHBwNfy9izuHvNiibyW	|
-|	11.00280%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|	1GFaYnem8deDn5Ed6gArp8SoS2X5cZS49W	|
-|	10.18738%	|	$8,269.35	|	[marshallbu](https://github.com/marshallbu)	|	1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY	|
-|	6.50516%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|	12bFJXeVp1DqctTznqtqxk6ajKcFFJVmK9	|
-|	1.55225%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|	1CwLVW1ngWdbF1nF4NXESibrUXBL6QXV7M	|
-|	1.47833%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|	15jvEH2mEC2EeoeNGjabUW3Er4kTx54xa8	|
-|	1.14016%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|		|
-|	0.24639%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|		|
-|	0.18356%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|	19TCiuAGLmW1GZWgrqRs4qQD43kvNtUGnd	|
-|	0.14167%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|	15rcx5QJngcRjE6SpEXfDZT2TArheQaG5V	|
+|	35.67650%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck)	|	15y9BSqBkCnYxdEYXtwrr2D5FMi2JPH5yw	|
+|	15.79045%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka)	|	13dgDZU8a93daWKcTeQpnJTZm1oKtDMkQF	|
+|	15.79045%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|	1L7cju27MaTXnDpjHBwNfy9izuHvNiibyW	|
+|	10.93317%	|	$8,798.75	|	[honeyd](https://github.com/honeyd)	|	1GFaYnem8deDn5Ed6gArp8SoS2X5cZS49W	|
+|	10.63384%	|	$8,687.31	|	[marshallbu](https://github.com/marshallbu)	|	1JJTLmBLfWwAXqxeqa3XN4XFMs63dZQBQY	|
+|	6.46356%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|	12bFJXeVp1DqctTznqtqxk6ajKcFFJVmK9	|
+|	1.54232%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|	1CwLVW1ngWdbF1nF4NXESibrUXBL6QXV7M	|
+|	1.46888%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|	15jvEH2mEC2EeoeNGjabUW3Er4kTx54xa8	|
+|	1.13287%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|		|
+|	0.24481%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|		|
+|	0.18239%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|	19TCiuAGLmW1GZWgrqRs4qQD43kvNtUGnd	|
+|	0.14077%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|	15rcx5QJngcRjE6SpEXfDZT2TArheQaG5V	|
 
 
 ## Contributor section — 80% of profits of SSIM
 
 | Percent | Amount | User |
 | ------- | ------ | ---- |
-|	15.89208%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
-|	15.89208%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
-|	15.89208%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
-|	10.88885%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
-|	10.18738%	|	$8,269.35	|	[marshallbu](https://github.com/marshallbu)	|
-|	6.50516%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
-|	1.55225%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
-|	1.47833%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
-|	1.14016%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
-|	0.24639%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
-|	0.18356%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
-|	0.14167%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
+|	15.79045%	|	$12,900.00	|	[kirkstrobeck](https://github.com/kirkstrobeck) (FP)	|
+|	15.79045%	|	$12,900.00	|	[amoslanka](https://github.com/amoslanka) (FP)	|
+|	15.79045%	|	$12,900.00	|	[ringlejc](https://github.com/ringlejc)	|
+|	10.81921%	|	$8,838.75	|	[honeyd](https://github.com/honeyd)	|
+|	10.63384%	|	$8,687.31	|	[marshallbu](https://github.com/marshallbu)	|
+|	6.46356%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|
+|	1.54232%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|
+|	1.46888%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|
+|	1.13287%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|
+|	0.24481%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|
+|	0.18239%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|
+|	0.14077%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|
 
 *(FP) Denotes founder protection clause. Number is currently affected by founder protection.*
 
@@ -81,6 +81,7 @@
 
 | Amount | User | Issue |
 | ------ | ---- | ----- |
+| $417.96 | [marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000009 on 1/22/15 |
 | $868.96 | [marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000008 on 1/16/15 |
 | $231.74 | [marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000007 on 1/1/15 |
 | $748.28 | [marshallbu](https://github.com/marshallbu) |	Time tracking invoice #0000006 on 12/25/14 |
