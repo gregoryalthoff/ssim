@@ -14,7 +14,7 @@
 |	6.46356%	|	$5,280.40	|	[NathanWalker](https://github.com/NathanWalker)	|	12bFJXeVp1DqctTznqtqxk6ajKcFFJVmK9	|
 |	1.54232%	|	$1,260.00	|	[thedavidbarwick](https://github.com/thedavidbarwick)	|	1CwLVW1ngWdbF1nF4NXESibrUXBL6QXV7M	|
 |	1.46888%	|	$1,200.00	|	[gmhawash](https://github.com/gmhawash)	|	15jvEH2mEC2EeoeNGjabUW3Er4kTx54xa8	|
-|	1.13287%	|	$925.50	|	[rpilic](https://github.com/rpilic)	|		|
+|	1.13287%	|	$925.50	|	[rpilic](https://github.com/rpilic)	| 12buFtToxzry6eoaBJYSyr7pFWVwvDZZsu |
 |	0.24481%	|	$200.00	|	[gregoryalthoff](https://github.com/gregoryalthoff)	|		|
 |	0.18239%	|	$149.00	|	[KatStrobe](https://github.com/KatStrobe)	|	19TCiuAGLmW1GZWgrqRs4qQD43kvNtUGnd	|
 |	0.14077%	|	$115.00	|	[hmarcks](https://github.com/hmarcks)	|	15rcx5QJngcRjE6SpEXfDZT2TArheQaG5V	|
